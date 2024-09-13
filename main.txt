@@ -14,4 +14,3 @@ This is line3.
     <script src="index.js"></script>
   </body>
 </html>
-This is line4 by Nistha.
