@@ -7,5 +7,5 @@ function reverseString(word: string): string {
   return reversedString;
 }
 
-const word = "Reverse this sentence";
+const word = "Reverse this sentence.";
 console.log(reverseString(word));
